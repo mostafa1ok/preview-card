@@ -152,7 +152,7 @@ body {
     margin-bottom: 62px;
   }
 }
-@media (max-width: 1199px) {
+@media (max-width: 1199px) and (min-width: 992px) {
   .card {
     padding-right: 101px;
   }
